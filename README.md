@@ -6,9 +6,9 @@ I usually experiment with coding languages such as JS, C++, TS, Rust and Python.
 ### Projects
 |                    Project Name                       | isActive |
 | ----------------------------------------------------  | -------- |
-| **[Discord Templates](https://discordtemplates.com)** |   Yes    | 
-| **[Excalibur](https://top.gg/bot/582998920217493640)**|   Yes    |
-| **[Mer-Lang](https://github.com/CanCodes/mer)**       |   Yes    |
+| **[Discord Templates](https://discordtemplates.com)** |   True   | 
+| **[Excalibur](https://top.gg/bot/582998920217493640)**|   False  |
+| **[Mer-Lang](https://github.com/CanCodes/mer)**       |   True   |
 
 _Trying to add more to the list!_
 
