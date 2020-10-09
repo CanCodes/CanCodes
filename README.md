@@ -4,11 +4,12 @@ My name is Can, I am 17 and I am currently living in  Istanbul-Turkey. I am the 
 I usually experiment with coding languages such as JS, C++, TS, Rust and Python. Sometimes I do teaching too.
 
 ### Projects
-|                    Project Name                       | isActive |
-| ----------------------------------------------------  | -------- |
-| **[Discord Templates](https://discordtemplates.com)** |   True   | 
-| **[Excalibur](https://top.gg/bot/582998920217493640)**|   False  |
-| **[Mer-Lang](https://github.com/CanCodes/mer)**       |   True   |
+|                    Project Name                                                    | isActive |
+| ---------------------------------------------------------------------------------- | -------- |
+| **[Discord Templates](https://discordtemplates.com)**                              |   True   |
+| **[Hiven Desktop Builds](https://github.com/CanCodes/Hiven-Desktop-Builds)**       |   True   |
+| **[Excalibur](https://top.gg/bot/582998920217493640)**                             |   False  |
+| **[Mer-Lang](https://github.com/CanCodes/mer)**                                    |   True   |
 
 _Trying to add more to the list!_
 
