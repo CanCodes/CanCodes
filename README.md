@@ -12,7 +12,7 @@ I usually experiment with coding languages such as JS, C++, TS, Rust and Python.
 | **[Mer-Lang](https://github.com/CanCodes/mer)**                                    |   True   |
 
 ### Status
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/316641074967871500)](https://discord.com/users/316641074967871500)
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/316641074967871500?bg=0d1117)](https://discord.com/users/316641074967871500)
 
 
 <!--
