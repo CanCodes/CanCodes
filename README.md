@@ -1,7 +1,7 @@
 ## Hi visitor! 👋
-My name is Can, I am currently living in  Istanbul-Turkey. I am the Co-Founder of **[Discord Templates](https://discordtemplates.com)** and Founder of the Discord Bot named Excalibur.  _Also started working on a secret project_
+My name is Can, I am currently living in  Istanbul-Turkey. I am the Co-Founder of **[Discord Templates](https://discordtemplates.com)**
 
-I usually experiment with coding languages such as JS, C++, TS, Rust and Python. Sometimes I do teaching too.
+I usually experiment with coding languages such as JS, C++, C#, TS, Rust and Python. I am currently learning Elixir and GoLang. Sometimes I do teaching too.
 
 ### Projects
 |                    Project Name                                                    | isActive |
